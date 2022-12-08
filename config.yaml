@@ -1,13 +1,13 @@
 all_config:
  github_token: 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
  dingding:
-   - enable: 1
+   - enable: 0
    - webhook: https://oapi.dingtalk.com/robot/send?access_token=08d7136aceaa2db48027148fed2a8e200dfeb16bcdfb928cbce4a6479de2cba1
    - secretKey: SEC455bfbd94a98261d38b8e70d8f4e158d01c6dad3fe188eedff96d215b20558a9
    - app_name: dingding
  feishu:
-   - enable: 0
-   - webhook: xxx
+   - enable: 1
+   - webhook: https://www.feishu.cn/flow/api/trigger-webhook/bc1fda3c93fb835a5cb52e386136fb02
    - app_name: feishu
  server:
    - enable: 0
