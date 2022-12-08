@@ -24,9 +24,9 @@ pip install python-telegram-bot
 ```
 并在config.yaml中配置tgbot的token等信息,enable设置为 1表示推送
 
-### TODO-List
-# 通过github actions实现
-# 优化推送内容及格式
+# TODO-List
+ 通过github actions实现
+ 优化推送内容及格式
 
 
 
